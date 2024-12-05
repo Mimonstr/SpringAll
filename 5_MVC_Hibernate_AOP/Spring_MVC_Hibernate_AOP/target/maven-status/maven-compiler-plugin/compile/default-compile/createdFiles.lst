@@ -1,0 +1,7 @@
+com\paryshkin\spring\mvc_hibernate_aop\dao\EmployeeDAO.class
+com\paryshkin\spring\mvc_hibernate_aop\entity\Employee.class
+com\paryshkin\spring\mvc_hibernate_aop\service\EmployeeServiceImpl.class
+com\paryshkin\spring\mvc_hibernate_aop\aspect\MyLoggingAspect.class
+com\paryshkin\spring\mvc_hibernate_aop\controller\MyController.class
+com\paryshkin\spring\mvc_hibernate_aop\dao\EmployeeDAOImpl.class
+com\paryshkin\spring\mvc_hibernate_aop\service\EmployeeService.class
