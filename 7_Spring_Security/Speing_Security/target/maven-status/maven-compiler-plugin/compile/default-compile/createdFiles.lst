@@ -1,0 +1,5 @@
+com\paryshkin\spring\security\configuration\MySecurityConfig.class
+com\paryshkin\spring\security\configuration\MyWebInitializer.class
+com\paryshkin\spring\security\controller\MyController.class
+com\paryshkin\spring\security\configuration\MyConfig.class
+com\paryshkin\spring\security\configuration\MySecurityInitializer.class
